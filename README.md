@@ -51,6 +51,15 @@ Performed analytical calculations in Python to derive key metrics:
 
 ---
 
+
+## 📁 Project Files
+
+You can view the full analysis in either format:  
+
+- **Python Script:** [data-cleaning.py](./data-cleaning.py) – shows the full data cleaning and analysis steps  
+- **PDF Report:** [Data.pdf](./Data.pdf) – a static version of the analysis and results
+
+
 ## 🧾 Tools & Technologies
 - **Microsoft Excel:** Data exploration, summarization, and visualization  
 - **Python (pandas):** Data cleaning, transformation, and analysis  
