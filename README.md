@@ -1,4 +1,4 @@
-# Week 2: Sales Data Analysis — Excel & Python (Pandas)
+#  Sales Data Analysis — Excel & Python (Pandas)
 
 ## 📊 Project Overview
 This project explores **data collection, management, cleaning, and analysis** using a real-world sales dataset (`Week-2-Sales-Data.csv`).  
