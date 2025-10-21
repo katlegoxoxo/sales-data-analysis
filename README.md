@@ -57,7 +57,7 @@ Performed analytical calculations in Python to derive key metrics:
 You can view the full analysis in either format:  
 
 - **Python Script:** [data-cleaning.py](./data-cleaning.py) – shows the full data cleaning and analysis steps  
-- **PDF Report:** [Data.pdf](./Data.pdf) – a static version of the analysis and results
+- **PDF Report:** [data-cleaning.pdf](./data-cleaning.pdf) – a static version of the analysis and results
 
 
 ## 🧾 Tools & Technologies
